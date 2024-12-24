@@ -11,12 +11,7 @@ Rpository for practicing git pull, push, making first pull request and working w
 
 ---
 # Member Block Example:
-## Your Name
-* **Quote:** _[Your Favorite Quote]_
-* :link:**Linkedin:** _[Your linkedin account link]_
-* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
-   > _Make sure to start and end your block with seperating lines_
----
- Add your blocks here ⬇⬇⬇
----
+## Khaled Hesham
+* **Quote:** The greatest glory in living lies not in never falling, but in rising every time we fall
+* :link:**Linkedin:** [_[Your linkedin account link]_](https://www.linkedin.com/in/khaled-h-20746212a/)
 
